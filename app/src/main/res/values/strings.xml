@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ImageSearch</string>
+    <string name="photo_description">photograph</string>
+
+    <string name="columns">columns</string>
+
+    <string name="columns_2">2 columns</string>
+    <string name="columns_3">3 columns</string>
+    <string name="columns_4">4 columns</string>
+    <string name="action_2_columns">showing 2 columns grid</string>
+    <string name="action_3_columns">showing 3 columns grid</string>
+    <string name="action_4_columns">showing 4 columns grid</string>
+    <string name="search">Search</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="no_data">No Data Found!</string>
+    <string name="no_network">\"Could not connect to network!\"</string>
+</resources>

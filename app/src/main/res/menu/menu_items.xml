@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_2_cols"
+        android:orderInCategory="10"
+        android:title="@string/columns_2"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_3_cols"
+        android:orderInCategory="20"
+        android:title="@string/columns_3"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_4_cols"
+        android:orderInCategory="30"
+        android:title="@string/columns_4"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        android:title="@string/search"/>
+
+</menu>
